@@ -9,6 +9,16 @@
             "projectName": "Gen9-Choferes2024",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Gen9Camiones2024Application<Gen9-Camiones2024>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.martinez.camiones.Gen9Camiones2024Application",
+            "projectName": "Gen9-Camiones2024",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }
