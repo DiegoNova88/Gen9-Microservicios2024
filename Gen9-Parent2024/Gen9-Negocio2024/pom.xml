@@ -17,6 +17,7 @@
 	<modules>
 		<module>Gen9-Choferes2024</module>
 		<module>Gen9-Camiones2024</module>
+		<module>Gen9-Rutas2024</module>
 	</modules>
 
 	<properties>
