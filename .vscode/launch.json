@@ -31,6 +31,16 @@
             "projectName": "Gen9-Rutas2024",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Gen9EurekaServer2024Application<Gen9-EurekaServer2024>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.martinez.eurekaserver.Gen9EurekaServer2024Application",
+            "projectName": "Gen9-EurekaServer2024",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }
